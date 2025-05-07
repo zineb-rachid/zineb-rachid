@@ -13,9 +13,6 @@ I'm a Full-Stack Web Developer passionate about creating clean, responsive, and 
 I'm open to collaboration, learning opportunities, and building meaningful projects that solve real-world problems.</br>
 
 "Code is like humor. When you have to explain it, it’s bad." – Cory House </br>
-# 💫 About Me:
-I'm a Full-Stack Web Developer passionate about creating clean, responsive, and user-friendly web applications. I specialize in:<br><br>⚙️ Backend: Laravel, PHP, MySQL<br><br>🎨 Frontend: React.js, JavaScript, HTML, CSS<br><br>🐍 Currently Learning: Python & Django<br><br>🧠 Always curious, always learning — from fixing bugs to exploring new tech.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zineb__rachid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/zineb-rachid-0bb1b3239) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@zinebrachid.1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Zinebrachid958@gmail.com) 
